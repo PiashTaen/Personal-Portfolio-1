@@ -7,3 +7,7 @@ h1{
 .name-color{
     color: orange;
 }
+.first-half-left {
+    width: 50%;
+    float: left;
+}
