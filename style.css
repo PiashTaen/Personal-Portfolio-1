@@ -36,3 +36,19 @@ section{
     background-image: linear-gradient(30deg,  black, red);
     color: white;
 }
+
+.mid-half-left{
+    float: left;
+    margin: 2%;
+    
+}
+.mid-half-right{
+    float: right;
+    margin: 5%;
+    width: 30%;
+
+}
+
+.mid-half-right-img{
+    float: right;
+}
